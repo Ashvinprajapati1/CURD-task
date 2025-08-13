@@ -1,0 +1,31 @@
+2025-08-13 11:37:58 [info]: Get /users/689b286a2c7fd63ef5627b46 request received
+2025-08-13 11:37:58 [info]: Fetching user with id 689b286a2c7fd63ef5627b46
+2025-08-13 11:37:58 [info]: User retrieved successfully: 689b286a2c7fd63ef5627b46
+2025-08-13 11:38:10 [info]: Get /users/689b286a2c7fd63ef5627b46 request received
+2025-08-13 11:38:10 [info]: Fetching user with id 689b286a2c7fd63ef5627b46
+2025-08-13 11:38:10 [info]: User retrieved successfully: 689b286a2c7fd63ef5627b46
+2025-08-13 12:07:31 [info]: Connected to mongo
+2025-08-13 12:28:38 [info]: Connected to mongo
+2025-08-13 12:33:00 [info]: Connected to mongo
+2025-08-13 12:35:45 [info]: Connected to mongo
+2025-08-13 12:35:48 [info]: File uploads in /uploads folder
+2025-08-13 12:36:20 [info]: Connected to mongo
+2025-08-13 12:36:30 [info]: File uploads in /uploads folder
+2025-08-13 12:36:30 [info]: File name: 11.png
+2025-08-13 12:36:30 [info]: Register user request recived
+2025-08-13 12:36:30 [info]: User validation failed
+2025-08-13 12:36:43 [info]: File uploads in /uploads folder
+2025-08-13 12:36:43 [info]: File name: 11.png
+2025-08-13 12:36:43 [info]: Register user request recived
+2025-08-13 12:36:43 [info]: User registration successful
+2025-08-13 12:36:43 [info]: User registration successful
+2025-08-13 12:38:31 [info]: File uploads in /uploads folder
+2025-08-13 12:38:31 [info]: File name: 11.png
+2025-08-13 12:38:31 [info]: Register user request recived
+2025-08-13 12:38:31 [info]: User already exists
+2025-08-13 12:38:31 [error]: User registration failed
+2025-08-13 12:38:46 [info]: File uploads in /uploads folder
+2025-08-13 12:38:46 [info]: File name: 11.png
+2025-08-13 12:38:46 [info]: Register user request recived
+2025-08-13 12:38:46 [info]: User registration successful
+2025-08-13 12:38:46 [info]: User registration successful
